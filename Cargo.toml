@@ -1,0 +1,16 @@
+[package]
+name = "switch-selection"
+version = "1.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+arboretum-td = "0.1.0"
+cplex_dynamic = "0.1.1"
+crabnets = { git = "https://github.com/jointpoints/CrabNets.git", rev = "7c316c0" }
+dyn-clone = "1.0.12"
+itertools = "0.11.0"
+num_cpus = "1.16.0"
+rand = "0.8.5"
+rand_xoshiro = "0.6.0"
