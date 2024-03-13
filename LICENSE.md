@@ -1,4 +1,4 @@
-# License
+# Licence
 
 Copyright © Andrew Eliseev (JointPoints), 2023
 
