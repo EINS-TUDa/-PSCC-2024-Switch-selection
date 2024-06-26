@@ -9,7 +9,9 @@
     <a href="https://github.com/EINS-TUDa/PSCC2024-SwitchSelection/blob/main/LICENSE.md">
         <img alt="Licence" src="https://img.shields.io/badge/licence-blue?style=for-the-badge">
     </a>
-    <img alt="PSCC paper" src="https://img.shields.io/badge/pscc_paper_(link_coming_soon)-grey?style=for-the-badge">
+    <a href="https://doi.org/10.1016/j.epsr.2024.110756">
+        <img alt="PSCC paper" src="https://img.shields.io/badge/pscc_paper-red?style=for-the-badge">
+    </a>
 </div>
 
 
@@ -51,7 +53,7 @@ A tool in this repository solves the following problem.
 > * $v : \text{V}(D) \rightarrow \{ -10, \dots, 10 \}$ — an optimal tap position for each primary substation.
 > * $S \subseteq \text{E}(G)$ — set of edges where switches should be opened.
 
-For further detail and definitions see our paper (link coming soon).
+For further detail and definitions see [our paper](https://doi.org/10.1016/j.epsr.2024.110756).
 
 
 
